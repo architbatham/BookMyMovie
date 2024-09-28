@@ -24,4 +24,4 @@ The project is designed to demonstrate the core functionality of a movie booking
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   https://github.com/architbatham/BookMyMovie.git
