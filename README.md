@@ -1,6 +1,6 @@
 # Book My Show - Node.js Project
 
-![Book My Show](./path_to_your_image.png)
+![Book My Show](./https://github.com/architbatham/BookMyMovie/blob/main/assets/image.jpg)
 
 ## About the Project
 
