@@ -1,0 +1,17 @@
+.TS_heading {
+    width: 100%;
+    font-size: 22px;
+    color: black
+    ;
+  }
+  
+  .TS_main_container {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    color: rgb(3, 84, 18);
+  }
+ .TS_main_container:hover {
+    color: rgb(0, 0, 0);
+  }
