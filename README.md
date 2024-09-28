@@ -1,6 +1,5 @@
 # Book My Show - Node.js Project
 
-![Book My Show]
 <img src="https://github.com/architbatham/BookMyMovie/blob/main/assets/image.jpg" alt="description of the image" width="optional_width" height="optional_height">
 
 ## About the Project
