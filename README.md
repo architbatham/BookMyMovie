@@ -9,7 +9,7 @@ This project is a simplified version of the **Book My Show** platform, built usi
 - Select a movie from a list of available options
 - Schedule a preferred showtime
 - Choose seats
-- After booking, users can view a summary of their booking, including the seat slot and movie details
+- After booking,users can view a summary of their booking, including the seat slot and movie details
 
 The project is designed to demonstrate the core functionality of a movie booking system, with a simple and intuitive UI for users to interact with.
 
